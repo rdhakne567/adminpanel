@@ -12,7 +12,7 @@ import { SharedModuleComponent } from './shared-module/shared-module.component';
     AppComponent,
     AuthModuleComponent,
     PagesModuleComponent,
-    SharedModuleComponent
+    SharedModuleComponent,
   ],
   imports: [
     BrowserModule,
